@@ -32,3 +32,4 @@ La aplicación permite gestionar una base de datos de películas con estas accio
 El flujo principal se realiza desde la interfaz de `index.php`.
 
 Enlace github: https://github.com/chocokrispii/ejercicio_modulo3
+Enlace infinityfree: https://sitiowebdepruebas.infinityfree.io/
